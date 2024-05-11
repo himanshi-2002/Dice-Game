@@ -1,0 +1,45 @@
+*{
+    padding:0px;
+    margin:0px;
+    background-color:azure;
+    font-family: 'Lobster', cursive;
+    text-shadow: 3px 0 #232931;
+}
+.header{
+    padding:60px;
+    color:rgb(134, 19, 163);
+    font-size:30px;
+    text-align:center;
+}
+.main{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.dice{
+    text-align:center;
+    padding:20px;
+}
+img{
+    height:200px;
+    cursor:pointer;
+    margin-top:10%;
+}
+p{
+    font-size:30px;
+    color:rgb(241, 11, 99);
+}
+.footer{
+    text-align:center;
+    padding:20px;
+    cursor:pointer;
+    color:rgb(241, 11, 99);
+}
+.results{
+    font-size:24px;
+    color:white;
+    background-color:rgb(243, 202, 253);
+    border-radius:15px;
+    padding:20px;
+    cursor:pointer;
+}
